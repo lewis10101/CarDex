@@ -1,0 +1,10 @@
+{
+  "name": "CarDex",
+  "description": "Minimal car collection tracking app with Collections brand garages, single-slot cars with dynamically discovered colour variants and user photos, accurate base vehicle specifications, and advanced filtering.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
